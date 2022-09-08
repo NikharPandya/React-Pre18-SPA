@@ -1,0 +1,33 @@
+.cta-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 40vh;
+  }
+  .cta-container {
+    width: 700px;
+    background-color: burlywood;
+    height: 20vh;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .cta-title{
+    margin: 0;
+    margin-bottom: 20px;
+    color: white;
+  }
+
+  .cta-btn{
+    width: 40%;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
+.cta-btn:hover{
+    opacity: 0.7;
+}

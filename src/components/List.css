@@ -1,0 +1,11 @@
+.list-parent{
+    text-align:start;
+}
+
+.list-child{
+    margin-bottom: 10px;
+}
+
+.list-link{
+    text-decoration: none;
+}
